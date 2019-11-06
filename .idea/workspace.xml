@@ -2,54 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f8b8ba0-8aea-410c-a080-96d1d03d756a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/api/Dept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/api/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/api/Param.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/api/TestApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/api/UserApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/config/MybatisPlusConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/service/IUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config/application-dev.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config/application-prod.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config/application-test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/demo.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/Result.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/api/Dept.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/api/Hello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/api/Param.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/api/TestApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/api/UserApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/config/MybatisPlusConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/mapper/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/service/IUserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/config/application-dev.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/config/application-prod.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/config/application-test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/config/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/demo-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/demo-1.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/api/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/demo/api/Demo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -87,13 +41,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/api/TestApi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="460">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/api/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+              <folding>
+                <element signature="e#87#88#0" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -163,6 +130,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/demo/api/TestApi.java" />
         <option value="$PROJECT_DIR$/src/main/resources/config/application-dev.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/config/application-prod.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/api/Demo.java" />
       </list>
     </option>
   </component>
@@ -240,6 +208,67 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Demo5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Demo5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Demo5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Demo5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Demo5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Demo5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Demo5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -373,18 +402,26 @@
       <workItem from="1570595039702" duration="1382000" />
       <workItem from="1572920282941" duration="157000" />
       <workItem from="1572940383476" duration="1221000" />
-      <workItem from="1573008567796" duration="388000" />
+      <workItem from="1573008567796" duration="800000" />
     </task>
+    <task id="LOCAL-00001" summary="部门">
+      <created>1573009087322</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573009087323</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52114000" />
+    <option name="totallyTimeSpent" value="52526000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18176943" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20428954" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -411,7 +448,7 @@
       <window_info anchor="bottom" id="Version Control" order="15" weight="0.32890365" />
       <window_info anchor="bottom" id="JRebel Executor" order="16" />
       <window_info anchor="bottom" id="JRebel Console" order="17" sideWeight="0.5002681" side_tool="true" weight="0.3133998" />
-      <window_info active="true" anchor="bottom" id="Messages" order="18" visible="true" weight="0.32890365" />
+      <window_info anchor="bottom" id="Messages" order="18" visible="true" weight="0.32890365" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="19" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -431,17 +468,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="部门" />
+    <option name="LAST_COMMIT_MESSAGE" value="部门" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/service/IUserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="46" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../jdk1.8/jdk/src.zip!/javax/annotation/Resource.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/service/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -661,10 +692,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/api/TestApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="460">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/api/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding>
+            <element signature="e#87#88#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
           </folding>
         </state>
       </provider>
