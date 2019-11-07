@@ -21,7 +21,7 @@ public class Demo {
     }
 
     @GetMapping("/demo")
-    public String demo(@RequestBody Param param) {
+    public String demo() {
         return "demo";
     }
 }
