@@ -13,4 +13,8 @@ public class Demo {
     public static void test2(){
         System.out.println("yya/demo5分支增加的内容");
     }
+
+    public static void test3(){
+        System.out.println("yya/master分支增加的内容");
+    }
 }
