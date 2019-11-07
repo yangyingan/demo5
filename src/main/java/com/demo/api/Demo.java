@@ -1,7 +1,9 @@
 package com.demo.api;
 
-public class Demo {
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 
+public class Demo {
     public static void main(String[] args) {
         System.out.println("main");
     }
@@ -16,5 +18,10 @@ public class Demo {
 
     public static void test3(){
         System.out.println("yya/master分支增加的内容");
+    }
+
+    @GetMapping("/demo")
+    public String demo(@RequestBody Param param) {
+        return "demo";
     }
 }
