@@ -21,6 +21,10 @@ public class Demo {
         System.out.println("yya/master分支增加的内容");
     }
 
+    public static void test4(){
+        System.out.println("master增加的内容");
+    }
+
     @GetMapping("/demo")
     public String demo() {
         return "demo";
